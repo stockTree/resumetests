@@ -2,6 +2,8 @@ body{
 	margin: 0;
 	background-color:grey;
 	color: white;
+	display:flex;
+	transition: all .3s;
 }
 h1,h2,p,dd,ul,ol,h3,h4,h5{
 	padding: 0;
